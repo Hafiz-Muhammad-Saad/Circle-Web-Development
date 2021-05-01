@@ -2,6 +2,8 @@
     background-color: green;
     position: static;
     top: 10px;
+    
+
 }
 
 .second-div{
@@ -30,5 +32,10 @@
    background-color: salmon;
    position: sticky;
    top: 10px;
+   text-Shadow : Horizontal 5px - Vertical 10px  - Color;
     
+}
+h1{
+    text-shadow: 3px 2px blue;
+    color: burlywood;
 }
