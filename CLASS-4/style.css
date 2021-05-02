@@ -1,0 +1,27 @@
+.first-div{
+    color:orange;
+    border: 5px solid;
+}
+
+.second-div > p{
+    background-color: yellow;
+    font-size: x-large;
+    color: orangered;
+  }
+
+  .third-div + p{
+      background-color: palevioletred;
+      color: purple;
+      font-size: 30px;
+      border: 3px solid;
+  }
+
+  .fourth-div ~  p{
+    background-color: red;
+    color:yellowgreen
+    font-size: 30px;
+    border: 3px solid;
+
+  }
+
+
